@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\AssistedProject\AP22\AP22\bin\Debug\AP22.exe.config
+C:\Users\moham\source\repos\AssistedProject\AP22\AP22\bin\Debug\AP22.exe
+C:\Users\moham\source\repos\AssistedProject\AP22\AP22\bin\Debug\AP22.pdb
+C:\Users\moham\source\repos\AssistedProject\AP22\AP22\obj\Debug\AP22.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\AssistedProject\AP22\AP22\obj\Debug\AP22.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\AssistedProject\AP22\AP22\obj\Debug\AP22.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\AssistedProject\AP22\AP22\obj\Debug\AP22.exe
+C:\Users\moham\source\repos\AssistedProject\AP22\AP22\obj\Debug\AP22.pdb
